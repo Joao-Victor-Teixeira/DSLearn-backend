@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte da minha especialização **Java Spring
 O sistema baseia-se no seguinte diagrama de classes, que detalha o ecossistema de aprendizado, matrículas e interações no fórum:
 
 ![Modelo Conceitual](https://raw.githubusercontent.com/Joao-Victor-Teixeira/DSLearn-backend/main/modelo-conceitual-com-forum%20(2).png)
-*(Certifique-se de que o caminho da imagem acima está correto em seu repositório)*
+
 
 ## 📁 Estrutura do Código
 A estrutura segue as melhores práticas do ecossistema Spring, com pacotes bem definidos para entidades, enums e objetos de persistência (PKs):
