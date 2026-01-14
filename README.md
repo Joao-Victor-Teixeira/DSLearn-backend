@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte da minha especialização **Java Spring
 ## 🏛️ Modelo Conceitual
 O sistema baseia-se no seguinte diagrama de classes, que detalha o ecossistema de aprendizado, matrículas e interações no fórum:
 
-![Modelo Conceitual](modelo-conceitual-com-forum%20(2).png)
+![Modelo de Domínio](assets/modelo-dominio.png)
 
 
 ## 📁 Estrutura do Código
