@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte da minha especialização **Java Spring
 ## 🏛️ Modelo Conceitual
 O sistema baseia-se no seguinte diagrama de classes, que detalha o ecossistema de aprendizado, matrículas e interações no fórum:
 
-![Modelo Conceitual](https://raw.githubusercontent.com/Joao-Victor-Teixeira/DSLearn-backend/main/modelo-conceitual-com-forum%20(2).png)
+![Modelo Conceitual](modelo-conceitual-com-forum%20(2).png)
 
 
 ## 📁 Estrutura do Código
